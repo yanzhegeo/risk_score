@@ -1,0 +1,140 @@
+﻿OBJECTID_1,OBJECTID,CITY_TYPE,LCITY,COMMUNITY,LABEL,SOURCE,ShapeSTAre,ShapeSTLen,Id,Country code,ENRICH_FID,Aggregation method,Population to polygon size rating for the country,Apportionment confidence for the country,Has data,2020 Total Population
+1,47,City,Los Angeles,Adams-Normandie,Los Angeles - Adams-Normandie,LA City,10341801.57812500,13122.60326903,0,US,1,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,8147.00000000
+2,48,City,Los Angeles,Alsace,Los Angeles - Alsace,LA City,17348594.17871090,20258.23177941,1,US,2,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,11884.00000000
+3,49,City,Los Angeles,Angeles National Forest,Los Angeles - Angeles National Forest,LA City,151134792.70507801,102981.68019950,2,US,3,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,20.00000000
+4,50,City,Los Angeles,Angelino Heights,Los Angeles - Angelino Heights,LA City,4179683.23437500,10403.78962578,3,US,4,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,2427.00000000
+5,51,City,Los Angeles,Arleta,Los Angeles - Arleta,LA City,79641922.66113280,41395.48490875,4,US,5,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,33796.00000000
+6,52,City,Los Angeles,Atwater Village,Los Angeles - Atwater Village,LA City,64926574.45410160,66563.72468561,5,US,6,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,14583.00000000
+7,53,City,Los Angeles,Baldwin Hills,Los Angeles - Baldwin Hills,LA City,72396942.76953129,51824.31600889,6,US,7,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,29331.00000000
+8,54,City,Los Angeles,Bel Air,Los Angeles - Bel Air,LA City,186580221.04296899,76705.39740195,7,US,8,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,8608.00000000
+9,55,City,Los Angeles,Beverly Crest,Los Angeles - Beverly Crest,LA City,234233281.12304699,110820.54850938,8,US,9,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,12223.00000000
+10,56,City,Los Angeles,Beverlywood,Los Angeles - Beverlywood,LA City,29915304.19238280,33551.26573871,9,US,10,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,12807.00000000
+11,57,City,Los Angeles,Boyle Heights,Los Angeles - Boyle Heights,LA City,144046936.56152299,59921.34092990,10,US,11,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,84950.00000000
+12,58,City,Los Angeles,Brentwood,Los Angeles - Brentwood,LA City,257124249.69824201,101595.13912604,11,US,12,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,29933.00000000
+13,59,City,Los Angeles,Brookside,Los Angeles - Brookside,LA City,2854060.80957031,7539.25605393,12,US,13,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,634.00000000
+14,60,City,Los Angeles,Cadillac-Corning,Los Angeles - Cadillac-Corning,LA City,6719564.08203125,10707.14703123,13,US,14,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,6780.00000000
+15,61,City,Los Angeles,Canoga Park,Los Angeles - Canoga Park,LA City,128293030.19238301,57957.64965416,14,US,15,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,62601.00000000
+16,62,City,Los Angeles,Carthay,Los Angeles - Carthay,LA City,27646587.85546880,26826.35351940,15,US,16,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,13749.00000000
+17,63,City,Los Angeles,Central,Los Angeles - Central,LA City,41716624.38378910,32538.08902026,16,US,17,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,37166.00000000
+18,64,City,Los Angeles,Century City,Los Angeles - Century City,LA City,32256016.22656250,23918.20407985,17,US,18,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,12544.00000000
+19,65,City,Los Angeles,Century Palms/Cove,Los Angeles - Century Palms/Cove,LA City,57881661.84472660,33546.22426826,18,US,19,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,32314.00000000
+20,66,City,Los Angeles,Chatsworth,Los Angeles - Chatsworth,LA City,293130093.92871100,76897.51017990,19,US,20,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,35461.00000000
+21,67,City,Los Angeles,Cheviot Hills,Los Angeles - Cheviot Hills,LA City,48358745.71484380,32289.47564156,20,US,21,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,9172.00000000
+22,68,City,Los Angeles,Chinatown,Los Angeles - Chinatown,LA City,11187362.53613280,14754.46111066,21,US,22,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,9655.00000000
+23,69,City,Los Angeles,Cloverdale/Cochran,Los Angeles - Cloverdale/Cochran,LA City,24119180.51953130,24448.58584071,22,US,23,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,14093.00000000
+24,70,City,Los Angeles,Country Club Park,Los Angeles - Country Club Park,LA City,26965076.86230470,22568.78082710,23,US,24,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,14579.00000000
+25,71,City,Los Angeles,Crenshaw District,Los Angeles - Crenshaw District,LA City,32980853.87402340,26081.47419735,24,US,25,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,13661.00000000
+26,72,City,Los Angeles,Crestview,Los Angeles - Crestview,LA City,21739226.06445310,21651.95076405,25,US,26,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,11043.00000000
+27,73,City,Los Angeles,Del Rey,Los Angeles - Del Rey,LA City,65322148.70605470,45191.74149323,26,US,27,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,29720.00000000
+28,74,City,Los Angeles,Downtown,Los Angeles - Downtown,LA City,57995830.85351560,44343.91349600,27,US,28,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,40024.00000000
+29,75,City,Los Angeles,Eagle Rock,Los Angeles - Eagle Rock,LA City,128941728.49316400,59900.47194267,28,US,29,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,38273.00000000
+30,76,City,Los Angeles,East Hollywood,Los Angeles - East Hollywood,LA City,30724903.45019530,22876.42826400,29,US,30,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,28102.00000000
+31,77,City,Los Angeles,Echo Park,Los Angeles - Echo Park,LA City,27755067.77539060,26540.21668548,0,US,31,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,14033.00000000
+32,78,City,Los Angeles,El Sereno,Los Angeles - El Sereno,LA City,109050969.51269500,57287.73309228,1,US,32,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,40643.00000000
+33,79,City,Los Angeles,Elysian Park,Los Angeles - Elysian Park,LA City,48791230.74902340,39718.04752073,2,US,33,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,5870.00000000
+34,80,City,Los Angeles,Elysian Valley,Los Angeles - Elysian Valley,LA City,26846913.16601560,53961.13855467,3,US,34,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,10022.00000000
+35,81,City,Los Angeles,Encino,Los Angeles - Encino,LA City,394357958.49316400,104094.97099847,4,US,35,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,43892.00000000
+36,82,City,Los Angeles,Exposition,Los Angeles - Exposition,LA City,9822071.75488281,13747.78796236,5,US,36,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,3357.00000000
+37,83,City,Los Angeles,Exposition Park,Los Angeles - Exposition Park,LA City,70838884.83105470,41975.37893867,6,US,37,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,43805.00000000
+38,84,City,Los Angeles,Faircrest Heights,Los Angeles - Faircrest Heights,LA City,13095367.10449220,16164.86688603,7,US,38,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,3841.00000000
+39,85,City,Los Angeles,Figueroa Park Square,Los Angeles - Figueroa Park Square,LA City,19926425.96875000,21605.52379554,8,US,39,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,8422.00000000
+40,86,City,Los Angeles,Florence-Firestone,Los Angeles - Florence-Firestone,LA City,70535922.82421879,41435.66923147,9,US,40,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,46365.00000000
+41,87,City,Los Angeles,Glassell Park,Los Angeles - Glassell Park,LA City,84747797.67871089,50207.83193310,10,US,41,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,30097.00000000
+42,88,City,Los Angeles,Gramercy Place,Los Angeles - Gramercy Place,LA City,31930657.14941410,26453.62588282,11,US,42,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,10509.00000000
+43,89,City,Los Angeles,Granada Hills,Los Angeles - Granada Hills,LA City,438839286.40722698,95212.57163583,12,US,43,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,56494.00000000
+44,90,City,Los Angeles,Green Meadows,Los Angeles - Green Meadows,LA City,34198719.05957030,23950.87423912,13,US,44,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,20900.00000000
+45,91,City,Los Angeles,Hancock Park,Los Angeles - Hancock Park,LA City,57323010.27441410,35841.96077209,14,US,45,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,17012.00000000
+46,92,City,Los Angeles,Harbor City,Los Angeles - Harbor City,LA City,127256590.69140600,68831.77366069,15,US,46,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,27908.00000000
+47,93,City,Los Angeles,Harbor Gateway,Los Angeles - Harbor Gateway,LA City,141213773.02246100,114745.33382012,16,US,47,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,42289.00000000
+48,94,City,Los Angeles,Harbor Pines,Los Angeles - Harbor Pines,LA City,6698248.10546875,11530.72480844,17,US,48,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,2231.00000000
+49,95,City,Los Angeles,Harvard Heights,Los Angeles - Harvard Heights,LA City,20898421.75195310,21077.38570504,18,US,49,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,16917.00000000
+50,96,City,Los Angeles,Harvard Park,Los Angeles - Harvard Park,LA City,63107483.26171880,34432.91117662,19,US,50,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,37165.00000000
+51,97,City,Los Angeles,Highland Park,Los Angeles - Highland Park,LA City,84518883.51855470,56286.55525159,20,US,51,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,46454.00000000
+52,98,City,Los Angeles,Historic Filipinotown,Los Angeles - Historic Filipinotown,LA City,16690240.01953130,21157.18711009,21,US,52,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,13842.00000000
+53,99,City,Los Angeles,Hollywood,Los Angeles - Hollywood,LA City,123731154.32812500,77997.13798034,22,US,53,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,69763.00000000
+54,100,City,Los Angeles,Hollywood Hills,Los Angeles - Hollywood Hills,LA City,196518166.55273399,87422.55605215,23,US,54,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,28793.00000000
+55,101,City,Los Angeles,Hyde Park,Los Angeles - Hyde Park,LA City,56911382.91894530,38424.76819525,24,US,55,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,28470.00000000
+56,102,City,Los Angeles,Jefferson Park,Los Angeles - Jefferson Park,LA City,12565603.55468750,14198.76418586,25,US,56,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,7706.00000000
+57,103,City,Los Angeles,Koreatown,Los Angeles - Koreatown,LA City,40641749.62011720,28508.35535035,26,US,57,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,51994.00000000
+58,104,City,Los Angeles,Lafayette Square,Los Angeles - Lafayette Square,LA City,7241468.82421875,11685.61844714,27,US,58,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,4618.00000000
+59,105,City,Los Angeles,Lake Balboa,Los Angeles - Lake Balboa,LA City,106285448.87207000,62044.65857965,28,US,59,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,40668.00000000
+60,106,City,Los Angeles,Lakeview Terrace,Los Angeles - Lakeview Terrace,LA City,166522233.59667999,115860.62324683,29,US,60,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,13217.00000000
+61,107,City,Los Angeles,Leimert Park,Los Angeles - Leimert Park,LA City,36693385.57714840,28369.95883710,0,US,61,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,15299.00000000
+62,108,City,Los Angeles,Lincoln Heights,Los Angeles - Lincoln Heights,LA City,91056715.40917970,60756.00994225,1,US,62,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,31865.00000000
+63,109,City,Los Angeles,Little Armenia,Los Angeles - Little Armenia,LA City,7022268.66894531,10599.05591282,2,US,63,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,7471.00000000
+64,110,City,Los Angeles,Little Bangladesh,Los Angeles - Little Bangladesh,LA City,13980368.53710940,15856.20275556,3,US,64,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,28270.00000000
+65,111,City,Los Angeles,Little Tokyo,Los Angeles - Little Tokyo,LA City,6229587.15917969,11677.79400464,4,US,65,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,4250.00000000
+66,112,City,Los Angeles,Longwood,Los Angeles - Longwood,LA City,6570202.85351563,13147.19558478,5,US,66,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,4296.00000000
+67,113,City,Los Angeles,Los Feliz,Los Angeles - Los Feliz,LA City,291480012.40722698,90452.02909154,6,US,67,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,20597.00000000
+68,114,City,Los Angeles,Manchester Square,Los Angeles - Manchester Square,LA City,21121948.31738280,18577.93637935,7,US,68,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,8248.00000000
+69,115,City,Los Angeles,Mandeville Canyon,Los Angeles - Mandeville Canyon,LA City,121291810.23046900,75092.65880852,8,US,69,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,3167.00000000
+70,116,City,Los Angeles,Mar Vista,Los Angeles - Mar Vista,LA City,98062542.66015629,51028.69840739,9,US,70,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,39826.00000000
+71,117,City,Los Angeles,Marina Peninsula,Los Angeles - Marina Peninsula,LA City,10727535.52050780,23869.85597038,10,US,71,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,4551.00000000
+72,118,City,Los Angeles,Melrose,Los Angeles - Melrose,LA City,124916837.04589801,83828.09050614,11,US,72,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,76873.00000000
+73,119,City,Los Angeles,Mid-city,Los Angeles - Mid-city,LA City,31337935.88476560,29831.33234470,12,US,73,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,14328.00000000
+74,120,City,Los Angeles,Miracle Mile,Los Angeles - Miracle Mile,LA City,33258285.10351560,40344.75238190,13,US,74,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,17167.00000000
+75,121,City,Los Angeles,Mission Hills,Los Angeles - Mission Hills,LA City,103579267.22558600,49657.95310614,14,US,75,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,23439.00000000
+76,122,City,Los Angeles,Mt. Washington,Los Angeles - Mt. Washington,LA City,65805806.92187500,43857.36538561,15,US,76,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,23135.00000000
+77,123,City,Los Angeles,North Hills,Los Angeles - North Hills,LA City,145908547.96093801,57611.64293913,16,US,77,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,58362.00000000
+78,124,City,Los Angeles,North Hollywood,Los Angeles - North Hollywood,LA City,315116906.95800799,108271.62988992,17,US,78,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,147140.00000000
+79,125,City,Los Angeles,Northridge,Los Angeles - Northridge,LA City,267831365.90527299,81470.97013095,18,US,79,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,69161.00000000
+80,126,City,Los Angeles,Pacific Palisades,Los Angeles - Pacific Palisades,LA City,160325460.17871100,86796.79531455,19,US,80,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,20718.00000000
+81,127,City,Los Angeles,Pacoima,Los Angeles - Pacoima,LA City,165209283.06054699,56530.69432453,20,US,81,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,76304.00000000
+82,128,City,Los Angeles,Palisades Highlands,Los Angeles - Palisades Highlands,LA City,515226431.35351598,131317.83880641,21,US,82,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,3944.00000000
+83,129,City,Los Angeles,Palms,Los Angeles - Palms,LA City,51069842.00585940,36741.53934492,22,US,83,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,43198.00000000
+84,130,City,Los Angeles,Panorama City,Los Angeles - Panorama City,LA City,105542698.69433600,51192.02674571,23,US,84,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,71109.00000000
+85,131,City,Los Angeles,Park La Brea,Los Angeles - Park La Brea,LA City,13349688.09765630,17145.01918284,24,US,85,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,12452.00000000
+86,132,City,Los Angeles,Pico-Union,Los Angeles - Pico-Union,LA City,37351718.72363280,29435.38883091,25,US,86,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,41099.00000000
+87,133,City,Los Angeles,Playa Del Rey,Los Angeles - Playa Del Rey,LA City,18667481.95898440,31018.78449874,26,US,87,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,3170.00000000
+88,134,City,Los Angeles,Playa Vista,Los Angeles - Playa Vista,LA City,37667428.33105470,39005.96415681,27,US,88,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,13533.00000000
+89,135,City,Los Angeles,Porter Ranch,Los Angeles - Porter Ranch,LA City,228354336.96875000,76200.86352407,28,US,89,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,33726.00000000
+90,136,City,Los Angeles,Rancho Park,Los Angeles - Rancho Park,LA City,23474757.34375000,22114.70211768,29,US,90,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,6630.00000000
+91,137,City,Los Angeles,Regent Square,Los Angeles - Regent Square,LA City,5641270.59082031,10671.47936941,0,US,91,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,2754.00000000
+92,138,City,Los Angeles,Reseda,Los Angeles - Reseda,LA City,172710420.51953101,60082.49180751,1,US,92,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,74009.00000000
+93,139,City,Los Angeles,Reseda Ranch,Los Angeles - Reseda Ranch,LA City,20059159.66308590,19423.14609622,2,US,93,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,4769.00000000
+94,140,City,Los Angeles,Reynier Village,Los Angeles - Reynier Village,LA City,9661503.48339844,14772.49973869,3,US,94,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,4113.00000000
+95,141,City,Los Angeles,San Pedro,Los Angeles - San Pedro,LA City,332166938.22753900,312723.48821456,4,US,95,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,75696.00000000
+96,142,City,Los Angeles,Shadow Hills,Los Angeles - Shadow Hills,LA City,85188064.30859379,49148.43834653,5,US,96,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,4665.00000000
+97,143,City,Los Angeles,Sherman Oaks,Los Angeles - Sherman Oaks,LA City,305649530.48925799,95426.71027084,6,US,97,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,84910.00000000
+98,144,City,Los Angeles,Silverlake,Los Angeles - Silverlake,LA City,106082837.67773400,64788.65187296,7,US,98,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,42407.00000000
+99,145,City,Los Angeles,South Carthay,Los Angeles - South Carthay,LA City,14799254.13964840,18153.18548968,8,US,99,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,10204.00000000
+100,146,City,Los Angeles,South Park,Los Angeles - South Park,LA City,40186362.47656250,27708.01803373,9,US,100,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,37261.00000000
+101,147,City,Los Angeles,St Elmo Village,Los Angeles - St Elmo Village,LA City,4181467.20312500,8771.42899961,10,US,101,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,4619.00000000
+102,148,City,Los Angeles,Studio City,Los Angeles - Studio City,LA City,119814721.59960900,67206.60417188,11,US,102,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,21708.00000000
+103,149,City,Los Angeles,Sun Valley,Los Angeles - Sun Valley,LA City,383745979.29785198,148133.09181980,12,US,103,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,52864.00000000
+104,150,City,Los Angeles,Sunland,Los Angeles - Sunland,LA City,184207696.36132801,108169.63752245,13,US,104,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,20127.00000000
+105,151,City,Los Angeles,Sycamore Square,Los Angeles - Sycamore Square,LA City,1831246.99414063,5944.48846279,14,US,105,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,623.00000000
+106,152,City,Los Angeles,Sylmar,Los Angeles - Sylmar,LA City,330170563.01855499,119721.62726984,15,US,106,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,82900.00000000
+107,153,City,Los Angeles,Tarzana,Los Angeles - Tarzana,LA City,179079757.20312500,74083.35866930,16,US,107,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,29817.00000000
+108,154,City,Los Angeles,Temple-Beaudry,Los Angeles - Temple-Beaudry,LA City,38649818.51367190,54358.39112750,17,US,108,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,38266.00000000
+109,155,City,Los Angeles,Thai Town,Los Angeles - Thai Town,LA City,6113946.98339844,10572.17451679,18,US,109,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,9431.00000000
+110,156,City,Los Angeles,Toluca Lake,Los Angeles - Toluca Lake,LA City,28797142.83300780,25642.73355407,19,US,110,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,8460.00000000
+111,157,City,Los Angeles,Toluca Terrace,Los Angeles - Toluca Terrace,LA City,2478044.86425781,6540.31247876,20,US,111,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,1415.00000000
+112,158,City,Los Angeles,Toluca Woods,Los Angeles - Toluca Woods,LA City,7178904.11914063,12247.82218902,21,US,112,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,1821.00000000
+113,159,City,Los Angeles,Tujunga,Los Angeles - Tujunga,LA City,153839505.10058600,71574.32758654,22,US,113,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,27634.00000000
+114,160,City,Los Angeles,University Hills,Los Angeles - University Hills,LA City,13137886.53515630,18279.54128681,23,US,114,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,3183.00000000
+115,161,City,Los Angeles,University Park,Los Angeles - University Park,LA City,38031882.75683590,34766.29982642,24,US,115,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,24927.00000000
+116,162,City,Los Angeles,Valley Glen,Los Angeles - Valley Glen,LA City,65393448.29687500,34152.21017385,25,US,116,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,28726.00000000
+117,163,City,Los Angeles,Valley Village,Los Angeles - Valley Village,LA City,57016389.01171880,35747.49991253,26,US,117,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,23858.00000000
+118,164,City,Los Angeles,Van Nuys,Los Angeles - Van Nuys,LA City,205583079.79980499,92099.63021466,27,US,118,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,90255.00000000
+119,165,City,Los Angeles,Venice,Los Angeles - Venice,LA City,77917417.70996089,42922.86973691,28,US,119,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,34497.00000000
+120,166,City,Los Angeles,Vermont Knolls,Los Angeles - Vermont Knolls,LA City,29675172.64550780,25532.53941620,29,US,120,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,17183.00000000
+121,167,City,Los Angeles,Vermont Square,Los Angeles - Vermont Square,LA City,12397381.09082030,14176.13802153,0,US,121,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,7248.00000000
+122,168,City,Los Angeles,Vermont Vista,Los Angeles - Vermont Vista,LA City,52869829.07714840,36319.69935402,1,US,122,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,39698.00000000
+123,169,City,Los Angeles,Vernon Central,Los Angeles - Vernon Central,LA City,63653034.00390630,40198.04994617,2,US,123,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,50782.00000000
+124,170,City,Los Angeles,Victoria Park,Los Angeles - Victoria Park,LA City,11235374.51953130,16048.68202953,3,US,124,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,8102.00000000
+125,171,City,Los Angeles,Watts,Los Angeles - Watts,LA City,58204963.29101560,34132.31120604,4,US,125,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,41547.00000000
+126,172,City,Los Angeles,Wellington Square,Los Angeles - Wellington Square,LA City,9790642.45312500,13865.50405874,5,US,126,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,4790.00000000
+127,173,City,Los Angeles,West Adams,Los Angeles - West Adams,LA City,40806406.35156250,34783.71791398,6,US,127,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,26398.00000000
+128,174,City,Los Angeles,West Hills,Los Angeles - West Hills,LA City,278714351.11914098,105989.43541218,7,US,128,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,39106.00000000
+129,175,City,Los Angeles,West Los Angeles,Los Angeles - West Los Angeles,LA City,59720615.91015630,36418.64770652,8,US,129,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,36375.00000000
+130,176,City,Los Angeles,West Vernon,Los Angeles - West Vernon,LA City,70320110.63378911,50950.22279332,9,US,130,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,52004.00000000
+131,177,City,Los Angeles,Westchester,Los Angeles - Westchester,LA City,359386016.92871100,114672.73555390,10,US,131,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,50578.00000000
+132,178,City,Los Angeles,Westlake,Los Angeles - Westlake,LA City,32043122.85058590,25486.34347407,11,US,132,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,59497.00000000
+133,179,City,Los Angeles,Westwood,Los Angeles - Westwood,LA City,105853582.14941400,61354.73052226,12,US,133,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,53332.00000000
+134,180,City,Los Angeles,Wholesale District,Los Angeles - Wholesale District,LA City,174999904.89941400,80438.25537312,13,US,134,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,41902.00000000
+135,181,City,Los Angeles,Wilmington,Los Angeles - Wilmington,LA City,196912290.11718801,111133.57447016,14,US,135,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,53845.00000000
+136,182,City,Los Angeles,Wilshire Center,Los Angeles - Wilshire Center,LA City,35975449.82519530,39976.88007071,15,US,136,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,50167.00000000
+137,183,City,Los Angeles,Winnetka,Los Angeles - Winnetka,LA City,139717944.17773399,57437.63490623,16,US,137,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,48669.00000000
+138,184,City,Los Angeles,Woodland Hills,Los Angeles - Woodland Hills,LA City,411329306.46386701,122458.39406699,17,US,138,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,67666.00000000
+139,342,City,Los Angeles,View Heights,Los Angeles - View Heights,LA City,9594326.89062500,16405.59824386,18,US,139,BlockApportionment:US.BlockGroups,2.19100000,2.57600000,1,3286.00000000
