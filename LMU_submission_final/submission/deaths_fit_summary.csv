@@ -1,0 +1,10 @@
+my_loss_death_total,bench_loss_death_total,my_loss_death_total_test,bench_loss_death_total_test,,,,,,
+8946.265839,60710.85931,269.4280139,65066.59184,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,variable ,description 
+,,,,,,,,my_loss_case_total,our model: mean squared error in predicting total death cases in full dataset
+,,,,,,,,bench_loss_case_total,base model: mean squared error in predicting total death cases in full dataset
+,,,,,,,,my_loss_case_total_test,our model: mean squared error in predicting total death cases in test dataset
+,,,,,,,,bench_loss_case_total_test,bench model: mean squared error in predicting total death cases in test dataset

@@ -1,0 +1,8 @@
+my_loss_case_total,bench_loss_case_total,my_loss_case_total_test,bench_loss_case_total_test,,,,
+10854245.49,20104819.33,848366.4857,59229536.02,,,,
+,,,,,,,
+,,,,,,variable ,description 
+,,,,,,my_loss_case_total,our model: mean squared error in predicting total infected cases in full dataset
+,,,,,,bench_loss_case_total,base model: mean squared error in predicting total infected cases in full dataset
+,,,,,,my_loss_case_total_test,our model: mean squared error in predicting total infected cases in test dataset
+,,,,,,bench_loss_case_total_test,bench model: mean squared error in predicting total infected cases in test dataset

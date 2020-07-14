@@ -28,7 +28,11 @@ def importBuildingRiskScore():
         # Read the title and the date 
         titleInfo = next(reader)
         print(titleInfo)
+        count = 0
         for row in reader:
+            count += 1
+            if count%10000==0:
+                print (count)
             insertBuildingData(row)
     
     print("Import confirmed data is completed.")
@@ -61,36 +65,40 @@ def importBuildingRiskScore():
 """
 
 def insertBuildingData(row):
-    if (len(row) < 24):
+    if (len(row) < 27):
         return
-    if (row[23] == "NA"):
-        row[23] = 0.0
+    if (row[25] == "NA"):
+        row[25] = 0.0
     else:
-        row[23] = float(row[23])
+        row[25] = float(row[23])
     data = {
-        "location_name": row[1],
-        "top_category": row[2],
-        "latitude": float(row[3]),
-        "longitude": float(row[4]),
-        "street_address": row[5],
-        "weekday": row[6],
-        "open_hours": row[7],
-        "area_square_feet": row[8],
-        "avg_visits": row[9],
-        "avg_median_dwell": row[10],
+        "location_name": row[0],
+        "top_category": row[1],
+        "latitude": float(row[2]),
+        "longitude": float(row[3]),
+        "street_address": row[4],
+        "postal_code": row[5],
+        "city": row[6],
+        "community": row[7],
+        "weekday": row[8],
+        "open_hours": row[9],
+        "area_square_feet": row[10],
         "infection_rate": row[11],
-        "cv": row[12],
-        "peak": row[13],
-        "interval": row[14],
-        "encounter": row[15],
-        "prob": row[16],
-        "area_per_capita": row[17],
-        "area_per_capita_perc_rank": row[18],
-        "prob_perc_rank": row[19],
-        "cv_perc_rank": row[20],
-        "peak_perc_rank": row[21],
-        "time_density_perc_rank": row[22],
-        "risk_score": row[23]
+        "avg_visits": row[12],
+        "avg_median_dwell": row[13],
+        "cv": row[14],
+        "peak": row[15],
+        "interval": row[16],
+        "encounter": row[17],
+        "prob": row[18],
+        "area_per_capita": row[19],
+        "area_per_capita_perc_rank": row[20],
+        "prob_perc_rank": row[21],
+        "cv_perc_rank": row[22],
+        "peak_perc_rank": row[23],
+        "time_density_perc_rank": row[24],
+        "risk_score": row[25],
+        "risk_level": row[26]
     }
     
     building_riskscore.insert_one(data)
